@@ -1,4 +1,4 @@
-testing my new app == README - updated
+testing my new app ROHIT == README - updated
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
